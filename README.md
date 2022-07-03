@@ -11,6 +11,7 @@ Based on the election_results.txt file. The outcome of the congressional electio
 * 306,055 Votes came from Denver County (82.8% of the total vote)
 * 38,855 Votes came from Jefferson County(10.5% of the total vote)
 * 24,801 Votes came from Arapahoe County (6.7% of the total vote)
+
  ![txtanalysis](https://user-images.githubusercontent.com/103524591/177019696-2bedfebb-b2c3-4043-9659-5033c6352443.png)
 
  
