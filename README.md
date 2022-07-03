@@ -15,7 +15,7 @@ Based on the election_results.txt file. The outcome of the congressional electio
  ![txtanalysis](https://user-images.githubusercontent.com/103524591/177019696-2bedfebb-b2c3-4043-9659-5033c6352443.png)
 
  
-As you can see from the picture above, Diana Degette was able to secure a victory by gaining a large amount of votes. Since Denver had the largest voter turnout, we can assume that her focus this election was getting voters from denver county which has a large voter population.
+As you can see from the picture above, Diana Degette was able to secure a victory by gaining an exceedingly large amount of votes. Since Denver had the largest voter turnout, we can assume that her focus this election was getting voters from Denver county, which has a large voter population in this election.
  
 ## Election Audit Summary
 After analyzing the election data, I would recommend all future candidates running in this election to focus on Denver county. This script determined where the majority of the votes came from and we can modify it to be used for any other future election as well.
