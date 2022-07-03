@@ -1,28 +1,19 @@
 # Election_Analysis
 
-##Project Overview
-I was taksed with completing an election audit for the recent congressional election of the colorado area.
-
-Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
-
-How many votes were cast in this congressional election?
-Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-Which county had the largest number of votes?
-Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
-Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
-
-
-Overview of Election Audit
-
-Election Audit Results
-
-Election Audit Summary
-
-##Resources
-
-##Summary
-
-##Challenge Overview
-
-##Challenge Summargy
+##Election Audit Overview
+I was tasked with completing an election audit for the recent congressional election of the colorado area to determine the winner and gather relative data on how many votes came from each county.
+ 
+##Election-Audit Results:
+Based on the election_results.txt file. The outcome of the congressional election was
+*369,711 Total Votes
+*306,055 Votes came from Denver County (82.8% of the total vote)
+*38,855 Votes came from Jefferson County(10.5% of the total vote)
+*24,801 Votes came from Arapahoe County (6.7% of the total vote)
+ 
+ 
+    As you can see from the picture above, Diana Degette was able to secure a victory by gaining a large amount of votes. Since Denver had the largest voter turnout, we can assume that her focus this election was getting voters from denver county which has a large voter population.
+ 
+##Election Audit Summary
+    After analyzing the election data, I would recommend all future candidates running in this election to focus on Denver county. This script determined where the majority of the votes came from and we can modify it to be used for any other future election as well.
+   
+    This script would be an excellent use for a district election instead of County. Another example would be to use this script to help figure out voting records for the entire state for a future presidential election.
