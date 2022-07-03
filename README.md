@@ -4,7 +4,9 @@
 I was tasked with completing an election audit for the recent congressional election of the colorado area to determine the winner and gather relative data on how many votes came from each county.
  
 ##Election-Audit Results:
+
 Based on the election_results.txt file. The outcome of the congressional election was
+
 * 369,711 Total Votes
 * 306,055 Votes came from Denver County (82.8% of the total vote)
 * 38,855 Votes came from Jefferson County(10.5% of the total vote)
